@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jakutay/!svn/ver/391/cs212/project4/src
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jakutay/!svn/ver/391/cs212/project4/src/WorkQueue.java
+END
+InvertedIndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jakutay/!svn/ver/426/cs212/project4/src/InvertedIndexBuilder.java
+END
+URLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jakutay/!svn/ver/391/cs212/project4/src/URLParser.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jakutay/!svn/ver/434/cs212/project4/src/InvertedIndex.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jakutay/!svn/ver/391/cs212/project4/src/ArgumentParser.java
+END
+CustomLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jakutay/!svn/ver/391/cs212/project4/src/CustomLock.java
+END
+HTMLFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jakutay/!svn/ver/426/cs212/project4/src/HTMLFetcher.java
+END
+HTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jakutay/!svn/ver/426/cs212/project4/src/HTMLParser.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jakutay/!svn/ver/404/cs212/project4/src/Driver.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jakutay/!svn/ver/392/cs212/project4/src/Search.java
+END
+Fetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jakutay/!svn/ver/426/cs212/project4/src/Fetcher.java
+END
+QueryListFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jakutay/!svn/ver/392/cs212/project4/src/QueryListFactory.java
+END
+DirectoryTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jakutay/!svn/ver/391/cs212/project4/src/DirectoryTraverser.java
+END

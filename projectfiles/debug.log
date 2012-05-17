@@ -1,0 +1,364 @@
+[02:40:34:498  67 DEBUG] (Thread-1) Waiting for work...
+[02:40:34:501  67 DEBUG] (Thread-2) Waiting for work...
+[02:40:34:501  67 DEBUG] (Thread-3) Waiting for work...
+[02:40:34:502  67 DEBUG] (Thread-4) Waiting for work...
+[02:40:34:503  67 DEBUG] (Thread-6) Waiting for work...
+[02:40:34:503  67 DEBUG] (Thread-5) Waiting for work...
+[02:40:34:503  67 DEBUG] (Thread-7) Waiting for work...
+[02:40:34:503  67 DEBUG] (Thread-9) Waiting for work...
+[02:40:34:503  38 DEBUG] (main) WorkQueue initialized with 10 threads.
+[02:40:34:508  67 DEBUG] (Thread-8) Waiting for work...
+[02:40:34:508  67 DEBUG] (Thread-10) Waiting for work...
+[02:40:34:516 133 DEBUG] (main) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2
+[02:40:34:516 134 DEBUG] (main) PENDING THREADS: 1
+[02:40:34:516  89 DEBUG] (Thread-1) Found work!
+[02:40:34:516 168 DEBUG] (Thread-1) -----FETCHING: http://www.cs.usfca.edu/~cliang2
+[02:40:34:616 190 DEBUG] (Thread-1) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/
+[02:40:34:620 133 DEBUG] (Thread-1) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/
+[02:40:34:620 134 DEBUG] (Thread-1) PENDING THREADS: 2
+[02:40:34:620  89 DEBUG] (Thread-2) Found work!
+[02:40:34:620 218 DEBUG] (Thread-1) ####TOTAL LINKS#####: 1
+[02:40:34:621 168 DEBUG] (Thread-2) -----FETCHING: http://www.cs.usfca.edu/~cliang2/
+[02:40:34:623 257 DEBUG] (Thread-1) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2
+[02:40:34:631 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/count/app.html
+[02:40:34:631 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/count/app.html
+[02:40:34:632 134 DEBUG] (Thread-2) PENDING THREADS: 3
+[02:40:34:632 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 2
+[02:40:34:632 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/capital_extension.html
+[02:40:34:632 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/capital_extension.html
+[02:40:34:632 134 DEBUG] (Thread-2) PENDING THREADS: 4
+[02:40:34:632 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 3
+[02:40:34:632 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg11.html
+[02:40:34:633 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg11.html
+[02:40:34:633 134 DEBUG] (Thread-2) PENDING THREADS: 5
+[02:40:34:633 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 4
+[02:40:34:633 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/simple/pg22014a.html
+[02:40:34:634 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014a.html
+[02:40:34:634 134 DEBUG] (Thread-2) PENDING THREADS: 6
+[02:40:34:634 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 5
+[02:40:34:634 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/app.html
+[02:40:34:634 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/app.html
+[02:40:34:635 134 DEBUG] (Thread-2) PENDING THREADS: 7
+[02:40:34:635 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 6
+[02:40:34:635 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/pg1661.html
+[02:40:34:635 265 DEBUG] (Thread-1) PENDING: 6
+[02:40:34:636  67 DEBUG] (Thread-1) Waiting for work...
+[02:40:34:633  89 DEBUG] (Thread-3) Found work!
+[02:40:34:635 133 DEBUG] (Thread-2) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/pg1661.html
+[02:40:34:636 134 DEBUG] (Thread-2) PENDING THREADS: 7
+[02:40:34:636 218 DEBUG] (Thread-2) ####TOTAL LINKS#####: 7
+[02:40:34:635  89 DEBUG] (Thread-7) Found work!
+[02:40:34:637 168 DEBUG] (Thread-7) -----FETCHING: http://www.cs.usfca.edu/~cliang2/app.html
+[02:40:34:635  89 DEBUG] (Thread-5) Found work!
+[02:40:34:637 168 DEBUG] (Thread-5) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014a.html
+[02:40:34:638 257 DEBUG] (Thread-2) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/
+[02:40:34:634  89 DEBUG] (Thread-4) Found work!
+[02:40:34:639 168 DEBUG] (Thread-4) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg11.html
+[02:40:34:634  89 DEBUG] (Thread-6) Found work!
+[02:40:34:636  89 DEBUG] (Thread-9) Found work!
+[02:40:34:643 168 DEBUG] (Thread-9) -----FETCHING: http://www.cs.usfca.edu/~cliang2/pg1661.html
+[02:40:34:636 168 DEBUG] (Thread-3) -----FETCHING: http://www.cs.usfca.edu/~cliang2/count/app.html
+[02:40:34:643 168 DEBUG] (Thread-6) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/capital_extension.html
+[02:40:34:646 190 DEBUG] (Thread-5) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/simple/pg22014b.html
+[02:40:34:647 133 DEBUG] (Thread-5) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014b.html
+[02:40:34:647 134 DEBUG] (Thread-5) PENDING THREADS: 8
+[02:40:34:647 218 DEBUG] (Thread-5) ####TOTAL LINKS#####: 8
+[02:40:34:651 257 DEBUG] (Thread-5) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014a.html
+[02:40:34:663 257 DEBUG] (Thread-9) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/pg1661.html
+[02:40:34:665 190 DEBUG] (Thread-3) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/count/pg1661.html
+[02:40:34:665 133 DEBUG] (Thread-3) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/count/pg1661.html
+[02:40:34:665 134 DEBUG] (Thread-3) PENDING THREADS: 9
+[02:40:34:665 218 DEBUG] (Thread-3) ####TOTAL LINKS#####: 9
+[02:40:34:667 257 DEBUG] (Thread-3) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/count/app.html
+[02:40:34:667  89 DEBUG] (Thread-8) Found work!
+[02:40:34:667 168 DEBUG] (Thread-8) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014b.html
+[02:40:34:668 190 DEBUG] (Thread-7) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/count/pg1661.html
+[02:40:34:669 209 DEBUG] (Thread-7) FOUND DUPLICATE URL
+[02:40:34:670 257 DEBUG] (Thread-7) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/app.html
+[02:40:34:670 265 DEBUG] (Thread-2) PENDING: 8
+[02:40:34:670  89 DEBUG] (Thread-2) Found work!
+[02:40:34:670 168 DEBUG] (Thread-2) -----FETCHING: http://www.cs.usfca.edu/~cliang2/count/pg1661.html
+[02:40:34:680  67 DEBUG] (Thread-10) Waiting for work...
+[02:40:34:686 265 DEBUG] (Thread-3) PENDING: 7
+[02:40:34:686  67 DEBUG] (Thread-3) Waiting for work...
+[02:40:34:689 265 DEBUG] (Thread-7) PENDING: 6
+[02:40:34:689  67 DEBUG] (Thread-7) Waiting for work...
+[02:40:34:720 190 DEBUG] (Thread-6) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/capitals.html
+[02:40:34:721 133 DEBUG] (Thread-6) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/capitals.html
+[02:40:34:721 134 DEBUG] (Thread-6) PENDING THREADS: 7
+[02:40:34:721 218 DEBUG] (Thread-6) ####TOTAL LINKS#####: 10
+[02:40:34:722 257 DEBUG] (Thread-6) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/capital_extension.html
+[02:40:34:723  89 DEBUG] (Thread-1) Found work!
+[02:40:34:724 168 DEBUG] (Thread-1) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/capitals.html
+[02:40:34:726 265 DEBUG] (Thread-5) PENDING: 5
+[02:40:34:726  67 DEBUG] (Thread-5) Waiting for work...
+[02:40:34:732 190 DEBUG] (Thread-8) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/simple/pg22014c.html
+[02:40:34:732 133 DEBUG] (Thread-8) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014c.html
+[02:40:34:733 134 DEBUG] (Thread-8) PENDING THREADS: 6
+[02:40:34:733 218 DEBUG] (Thread-8) ####TOTAL LINKS#####: 11
+[02:40:34:734  89 DEBUG] (Thread-10) Found work!
+[02:40:34:734 168 DEBUG] (Thread-10) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014c.html
+[02:40:34:735 265 DEBUG] (Thread-6) PENDING: 5
+[02:40:34:735  67 DEBUG] (Thread-6) Waiting for work...
+[02:40:34:737 257 DEBUG] (Thread-8) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014b.html
+[02:40:34:738 265 DEBUG] (Thread-9) PENDING: 5
+[02:40:34:738  67 DEBUG] (Thread-9) Waiting for work...
+[02:40:34:748 265 DEBUG] (Thread-8) PENDING: 4
+[02:40:34:748  67 DEBUG] (Thread-8) Waiting for work...
+[02:40:34:774 190 DEBUG] (Thread-1) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/digits.html
+[02:40:34:775 133 DEBUG] (Thread-1) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/digits.html
+[02:40:34:775 134 DEBUG] (Thread-1) PENDING THREADS: 5
+[02:40:34:775 218 DEBUG] (Thread-1) ####TOTAL LINKS#####: 12
+[02:40:34:776  89 DEBUG] (Thread-3) Found work!
+[02:40:34:776 168 DEBUG] (Thread-3) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/digits.html
+[02:40:34:780 257 DEBUG] (Thread-1) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/capitals.html
+[02:40:34:782 190 DEBUG] (Thread-10) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/simple/pg22014c.html
+[02:40:34:783 209 DEBUG] (Thread-10) FOUND DUPLICATE URL
+[02:40:34:785 257 DEBUG] (Thread-10) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/simple/pg22014c.html
+[02:40:34:801 265 DEBUG] (Thread-10) PENDING: 4
+[02:40:34:801  67 DEBUG] (Thread-10) Waiting for work...
+[02:40:34:801 265 DEBUG] (Thread-1) PENDING: 3
+[02:40:34:802  67 DEBUG] (Thread-1) Waiting for work...
+[02:40:34:807 190 DEBUG] (Thread-4) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg11757.html
+[02:40:34:809 133 DEBUG] (Thread-4) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg11757.html
+[02:40:34:810 134 DEBUG] (Thread-4) PENDING THREADS: 4
+[02:40:34:810  89 DEBUG] (Thread-7) Found work!
+[02:40:34:810 218 DEBUG] (Thread-4) ####TOTAL LINKS#####: 13
+[02:40:34:810 168 DEBUG] (Thread-7) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg11757.html
+[02:40:34:816 190 DEBUG] (Thread-3) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/double_extension.txt.html
+[02:40:34:817 133 DEBUG] (Thread-3) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/double_extension.txt.html
+[02:40:34:817 134 DEBUG] (Thread-3) PENDING THREADS: 5
+[02:40:34:818 218 DEBUG] (Thread-3) ####TOTAL LINKS#####: 14
+[02:40:34:818  89 DEBUG] (Thread-5) Found work!
+[02:40:34:819 168 DEBUG] (Thread-5) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/double_extension.txt.html
+[02:40:34:825 257 DEBUG] (Thread-3) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/digits.html
+[02:40:34:842 265 DEBUG] (Thread-3) PENDING: 4
+[02:40:34:842  67 DEBUG] (Thread-3) Waiting for work...
+[02:40:34:877 190 DEBUG] (Thread-5) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/empty.html
+[02:40:34:878 133 DEBUG] (Thread-5) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/empty.html
+[02:40:34:878 134 DEBUG] (Thread-5) PENDING THREADS: 5
+[02:40:34:878 218 DEBUG] (Thread-5) ####TOTAL LINKS#####: 15
+[02:40:34:880 257 DEBUG] (Thread-5) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/double_extension.txt.html
+[02:40:34:881  89 DEBUG] (Thread-6) Found work!
+[02:40:34:881 168 DEBUG] (Thread-6) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/empty.html
+[02:40:34:891 265 DEBUG] (Thread-5) PENDING: 4
+[02:40:34:892  67 DEBUG] (Thread-5) Waiting for work...
+[02:40:34:953 190 DEBUG] (Thread-7) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg14838.html
+[02:40:34:958 133 DEBUG] (Thread-7) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg14838.html
+[02:40:34:958 134 DEBUG] (Thread-7) PENDING THREADS: 5
+[02:40:34:958 218 DEBUG] (Thread-7) ####TOTAL LINKS#####: 16
+[02:40:34:974  89 DEBUG] (Thread-9) Found work!
+[02:40:34:990 168 DEBUG] (Thread-9) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg14838.html
+[02:40:34:995 190 DEBUG] (Thread-6) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/no_extension.html
+[02:40:34:998 133 DEBUG] (Thread-6) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/no_extension.html
+[02:40:34:998 134 DEBUG] (Thread-6) PENDING THREADS: 6
+[02:40:34:998 218 DEBUG] (Thread-6) ####TOTAL LINKS#####: 17
+[02:40:34:998 257 DEBUG] (Thread-6) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/empty.html
+[02:40:35:005  89 DEBUG] (Thread-8) Found work!
+[02:40:35:005 168 DEBUG] (Thread-8) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/no_extension.html
+[02:40:35:010 265 DEBUG] (Thread-6) PENDING: 5
+[02:40:35:010  67 DEBUG] (Thread-6) Waiting for work...
+[02:40:35:052 190 DEBUG] (Thread-9) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg1524.html
+[02:40:35:053 133 DEBUG] (Thread-9) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg1524.html
+[02:40:35:053 134 DEBUG] (Thread-9) PENDING THREADS: 6
+[02:40:35:053 218 DEBUG] (Thread-9) ####TOTAL LINKS#####: 18
+[02:40:35:053  89 DEBUG] (Thread-10) Found work!
+[02:40:35:053 168 DEBUG] (Thread-10) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg1524.html
+[02:40:35:109 190 DEBUG] (Thread-8) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/position.html
+[02:40:35:110 133 DEBUG] (Thread-8) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/position.html
+[02:40:35:111 134 DEBUG] (Thread-8) PENDING THREADS: 7
+[02:40:35:112 218 DEBUG] (Thread-8) ####TOTAL LINKS#####: 19
+[02:40:35:112 257 DEBUG] (Thread-8) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/no_extension.html
+[02:40:35:113  89 DEBUG] (Thread-1) Found work!
+[02:40:35:113 168 DEBUG] (Thread-1) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/position.html
+[02:40:35:123 265 DEBUG] (Thread-8) PENDING: 6
+[02:40:35:124  67 DEBUG] (Thread-8) Waiting for work...
+[02:40:35:190 190 DEBUG] (Thread-1) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/symbols.html
+[02:40:35:191 133 DEBUG] (Thread-1) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/symbols.html
+[02:40:35:192 134 DEBUG] (Thread-1) PENDING THREADS: 7
+[02:40:35:194  89 DEBUG] (Thread-3) Found work!
+[02:40:35:194 168 DEBUG] (Thread-3) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/symbols.html
+[02:40:35:195 218 DEBUG] (Thread-1) ####TOTAL LINKS#####: 20
+[02:40:35:196 257 DEBUG] (Thread-1) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/position.html
+[02:40:35:212 265 DEBUG] (Thread-1) PENDING: 6
+[02:40:35:212  67 DEBUG] (Thread-1) Waiting for work...
+[02:40:35:245 190 DEBUG] (Thread-10) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg1661.html
+[02:40:35:246 133 DEBUG] (Thread-10) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg1661.html
+[02:40:35:246 134 DEBUG] (Thread-10) PENDING THREADS: 7
+[02:40:35:246  89 DEBUG] (Thread-5) Found work!
+[02:40:35:247 168 DEBUG] (Thread-5) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg1661.html
+[02:40:35:246 218 DEBUG] (Thread-10) ####TOTAL LINKS#####: 21
+[02:40:35:247 190 DEBUG] (Thread-3) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/wrong_extension.html
+[02:40:35:248 133 DEBUG] (Thread-3) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/wrong_extension.html
+[02:40:35:248 134 DEBUG] (Thread-3) PENDING THREADS: 8
+[02:40:35:248 218 DEBUG] (Thread-3) ####TOTAL LINKS#####: 22
+[02:40:35:250 257 DEBUG] (Thread-3) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/symbols.html
+[02:40:35:250  89 DEBUG] (Thread-6) Found work!
+[02:40:35:250 168 DEBUG] (Thread-6) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/cases/wrong_extension.html
+[02:40:35:261 265 DEBUG] (Thread-3) PENDING: 7
+[02:40:35:261  67 DEBUG] (Thread-3) Waiting for work...
+[02:40:35:281 190 DEBUG] (Thread-6) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/extended/pg11.html
+[02:40:35:282 133 DEBUG] (Thread-6) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg11.html
+[02:40:35:282 134 DEBUG] (Thread-6) PENDING THREADS: 8
+[02:40:35:282 218 DEBUG] (Thread-6) ####TOTAL LINKS#####: 23
+[02:40:35:283 257 DEBUG] (Thread-6) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/cases/wrong_extension.html
+[02:40:35:283  89 DEBUG] (Thread-8) Found work!
+[02:40:35:283 168 DEBUG] (Thread-8) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/extended/pg11.html
+[02:40:35:294 265 DEBUG] (Thread-6) PENDING: 7
+[02:40:35:294  67 DEBUG] (Thread-6) Waiting for work...
+[02:40:35:401 190 DEBUG] (Thread-2) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/cases/capital_extension.html
+[02:40:35:401 209 DEBUG] (Thread-2) FOUND DUPLICATE URL
+[02:40:35:480 257 DEBUG] (Thread-9) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg14838.html
+[02:40:35:585 257 DEBUG] (Thread-7) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg11757.html
+[02:40:35:653 190 DEBUG] (Thread-8) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/extended/pg1661.html
+[02:40:35:654 133 DEBUG] (Thread-8) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg1661.html
+[02:40:35:654 134 DEBUG] (Thread-8) PENDING THREADS: 8
+[02:40:35:654 218 DEBUG] (Thread-8) ####TOTAL LINKS#####: 24
+[02:40:35:654  89 DEBUG] (Thread-1) Found work!
+[02:40:35:654 168 DEBUG] (Thread-1) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/extended/pg1661.html
+[02:40:35:685 265 DEBUG] (Thread-9) PENDING: 7
+[02:40:35:685  67 DEBUG] (Thread-9) Waiting for work...
+[02:40:35:748 265 DEBUG] (Thread-7) PENDING: 6
+[02:40:35:748  67 DEBUG] (Thread-7) Waiting for work...
+[02:40:36:040 190 DEBUG] (Thread-5) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg2701.html
+[02:40:36:040 133 DEBUG] (Thread-5) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg2701.html
+[02:40:36:044 134 DEBUG] (Thread-5) PENDING THREADS: 7
+[02:40:36:044  89 DEBUG] (Thread-3) Found work!
+[02:40:36:044 168 DEBUG] (Thread-3) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg2701.html
+[02:40:36:045 218 DEBUG] (Thread-5) ####TOTAL LINKS#####: 25
+[02:40:36:140 257 DEBUG] (Thread-4) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg11.html
+[02:40:36:270 257 DEBUG] (Thread-10) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg1524.html
+[02:40:36:442 257 DEBUG] (Thread-8) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg11.html
+[02:40:36:534 265 DEBUG] (Thread-4) PENDING: 6
+[02:40:36:534  67 DEBUG] (Thread-4) Waiting for work...
+[02:40:36:546 190 DEBUG] (Thread-1) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/extended/pg2701.html
+[02:40:36:563 265 DEBUG] (Thread-8) PENDING: 5
+[02:40:36:563  67 DEBUG] (Thread-8) Waiting for work...
+[02:40:36:564 133 DEBUG] (Thread-1) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg2701.html
+[02:40:36:564 134 DEBUG] (Thread-1) PENDING THREADS: 6
+[02:40:36:564  89 DEBUG] (Thread-6) Found work!
+[02:40:36:564 168 DEBUG] (Thread-6) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/extended/pg2701.html
+[02:40:36:565 218 DEBUG] (Thread-1) ####TOTAL LINKS#####: 26
+[02:40:36:574 265 DEBUG] (Thread-10) PENDING: 5
+[02:40:36:574  67 DEBUG] (Thread-10) Waiting for work...
+[02:40:37:601 190 DEBUG] (Thread-3) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg5001.html
+[02:40:37:602 133 DEBUG] (Thread-3) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg5001.html
+[02:40:37:602 134 DEBUG] (Thread-3) PENDING THREADS: 6
+[02:40:37:602 218 DEBUG] (Thread-3) ####TOTAL LINKS#####: 27
+[02:40:37:737  89 DEBUG] (Thread-9) Found work!
+[02:40:37:738 168 DEBUG] (Thread-9) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg5001.html
+[02:40:37:917 257 DEBUG] (Thread-2) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/count/pg1661.html
+[02:40:37:979 190 DEBUG] (Thread-9) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/multi/pg55.html
+[02:40:37:980 133 DEBUG] (Thread-9) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg55.html
+[02:40:37:980 134 DEBUG] (Thread-9) PENDING THREADS: 7
+[02:40:37:980 218 DEBUG] (Thread-9) ####TOTAL LINKS#####: 28
+[02:40:37:983  89 DEBUG] (Thread-7) Found work!
+[02:40:37:983 168 DEBUG] (Thread-7) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/multi/pg55.html
+[02:40:38:016 190 DEBUG] (Thread-6) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/extended/rfc791.html
+[02:40:38:017 133 DEBUG] (Thread-6) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/rfc791.html
+[02:40:38:017 134 DEBUG] (Thread-6) PENDING THREADS: 8
+[02:40:38:017 218 DEBUG] (Thread-6) ####TOTAL LINKS#####: 29
+[02:40:38:017  89 DEBUG] (Thread-4) Found work!
+[02:40:38:079 168 DEBUG] (Thread-4) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/extended/rfc791.html
+[02:40:38:173 257 DEBUG] (Thread-5) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg1661.html
+[02:40:38:179 265 DEBUG] (Thread-2) PENDING: 7
+[02:40:38:179  67 DEBUG] (Thread-2) Waiting for work...
+[02:40:38:211 265 DEBUG] (Thread-5) PENDING: 6
+[02:40:38:211  67 DEBUG] (Thread-5) Waiting for work...
+[02:40:38:287 190 DEBUG] (Thread-4) ******READING IN LINKS *****:http://www.cs.usfca.edu/~cliang2/index/extended/rfc4301.html
+[02:40:38:287 133 DEBUG] (Thread-4) BUILDING INDEX STARTING WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/rfc4301.html
+[02:40:38:288 134 DEBUG] (Thread-4) PENDING THREADS: 7
+[02:40:38:288 218 DEBUG] (Thread-4) ####TOTAL LINKS#####: 30
+[02:40:38:288 220 DEBUG] (Thread-4) !!====MORE THAN 30 LINKS, BREAK====!!
+[02:40:38:302  89 DEBUG] (Thread-8) Found work!
+[02:40:38:303 168 DEBUG] (Thread-8) -----FETCHING: http://www.cs.usfca.edu/~cliang2/index/extended/rfc4301.html
+[02:40:38:483 257 DEBUG] (Thread-4) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/rfc791.html
+[02:40:38:519 265 DEBUG] (Thread-4) PENDING: 6
+[02:40:38:519  67 DEBUG] (Thread-4) Waiting for work...
+[02:40:38:522 257 DEBUG] (Thread-9) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg5001.html
+[02:40:38:556 257 DEBUG] (Thread-1) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg1661.html
+[02:40:38:557 265 DEBUG] (Thread-9) PENDING: 5
+[02:40:38:558  67 DEBUG] (Thread-9) Waiting for work...
+[02:40:38:680 257 DEBUG] (Thread-7) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg55.html
+[02:40:38:696 265 DEBUG] (Thread-1) PENDING: 4
+[02:40:38:698  67 DEBUG] (Thread-1) Waiting for work...
+[02:40:38:734 265 DEBUG] (Thread-7) PENDING: 3
+[02:40:38:735  67 DEBUG] (Thread-7) Waiting for work...
+[02:40:39:542 257 DEBUG] (Thread-8) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/rfc4301.html
+[02:40:39:613 265 DEBUG] (Thread-8) PENDING: 2
+[02:40:39:613  67 DEBUG] (Thread-8) Waiting for work...
+[02:40:40:860 257 DEBUG] (Thread-3) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/multi/pg2701.html
+[02:40:41:518 265 DEBUG] (Thread-3) PENDING: 1
+[02:40:41:518  67 DEBUG] (Thread-3) Waiting for work...
+[02:40:41:573 257 DEBUG] (Thread-6) FINISHED WORK ON: http://www.cs.usfca.edu/~cliang2/index/extended/pg2701.html
+[02:40:41:617 265 DEBUG] (Thread-6) PENDING: 0
+[02:40:41:617  67 DEBUG] (Thread-6) Waiting for work...
+[02:40:41:973  51 DEBUG] (main) Attempting shutdown of all threads.
+[02:40:41:983  77 DEBUG] (Thread-6) Shutdown detected.
+[02:40:41:983  97 DEBUG] (Thread-6) Thread terminating.
+[02:40:41:983  77 DEBUG] (Thread-3) Shutdown detected.
+[02:40:41:983  97 DEBUG] (Thread-3) Thread terminating.
+[02:40:41:983  77 DEBUG] (Thread-8) Shutdown detected.
+[02:40:41:984  97 DEBUG] (Thread-8) Thread terminating.
+[02:40:41:984  77 DEBUG] (Thread-7) Shutdown detected.
+[02:40:41:984  97 DEBUG] (Thread-7) Thread terminating.
+[02:40:41:984  77 DEBUG] (Thread-1) Shutdown detected.
+[02:40:41:984  97 DEBUG] (Thread-1) Thread terminating.
+[02:40:41:984  77 DEBUG] (Thread-9) Shutdown detected.
+[02:40:41:984  97 DEBUG] (Thread-9) Thread terminating.
+[02:40:41:984  77 DEBUG] (Thread-4) Shutdown detected.
+[02:40:41:985  97 DEBUG] (Thread-4) Thread terminating.
+[02:40:41:985  77 DEBUG] (Thread-5) Shutdown detected.
+[02:40:41:985  97 DEBUG] (Thread-5) Thread terminating.
+[02:40:41:985  77 DEBUG] (Thread-2) Shutdown detected.
+[02:40:41:986  97 DEBUG] (Thread-2) Thread terminating.
+[02:40:41:986  77 DEBUG] (Thread-10) Shutdown detected.
+[02:40:41:986  97 DEBUG] (Thread-10) Thread terminating.
+[02:40:42:013  67 DEBUG] (Thread-12) Waiting for work...
+[02:40:42:013  67 DEBUG] (Thread-13) Waiting for work...
+[02:40:42:013  67 DEBUG] (Thread-14) Waiting for work...
+[02:40:42:013  67 DEBUG] (Thread-15) Waiting for work...
+[02:40:42:013  67 DEBUG] (Thread-16) Waiting for work...
+[02:40:42:014  67 DEBUG] (Thread-17) Waiting for work...
+[02:40:42:014  67 DEBUG] (Thread-18) Waiting for work...
+[02:40:42:014  67 DEBUG] (Thread-19) Waiting for work...
+[02:40:42:014  67 DEBUG] (Thread-20) Waiting for work...
+[02:40:42:015  38 DEBUG] (main) WorkQueue initialized with 10 threads.
+[02:40:42:016  67 DEBUG] (Thread-21) Waiting for work...
+[02:40:43:780  89 DEBUG] (Thread-12) Found work!
+[02:40:43:780  89 DEBUG] (Thread-14) Found work!
+[02:40:43:780  89 DEBUG] (Thread-15) Found work!
+[02:40:43:789  89 DEBUG] (Thread-13) Found work!
+[02:40:43:801 254 DEBUG] (Thread-14) Adding index: 2
+[02:40:43:801 256 DEBUG] (Thread-14) Search: Finished work on: aw li
+[02:40:43:801  67 DEBUG] (Thread-14) Waiting for work...
+[02:40:43:802 254 DEBUG] (Thread-12) Adding index: 0
+[02:40:43:803 256 DEBUG] (Thread-12) Search: Finished work on: peter
+[02:40:43:803  67 DEBUG] (Thread-12) Waiting for work...
+[02:40:43:803 254 DEBUG] (Thread-15) Adding index: 1
+[02:40:43:803 256 DEBUG] (Thread-15) Search: Finished work on: locusts
+[02:40:43:803  67 DEBUG] (Thread-15) Waiting for work...
+[02:40:43:803 254 DEBUG] (Thread-13) Adding index: 3
+[02:40:43:803 256 DEBUG] (Thread-13) Search: Finished work on: flibbertigibbet
+[02:40:43:803  67 DEBUG] (Thread-13) Waiting for work...
+[02:40:43:804  51 DEBUG] (main) Attempting shutdown of all threads.
+[02:40:43:804  77 DEBUG] (Thread-13) Shutdown detected.
+[02:40:43:804  97 DEBUG] (Thread-13) Thread terminating.
+[02:40:43:804  77 DEBUG] (Thread-15) Shutdown detected.
+[02:40:43:804  97 DEBUG] (Thread-15) Thread terminating.
+[02:40:43:804  77 DEBUG] (Thread-12) Shutdown detected.
+[02:40:43:804  97 DEBUG] (Thread-12) Thread terminating.
+[02:40:43:805  77 DEBUG] (Thread-14) Shutdown detected.
+[02:40:43:805  97 DEBUG] (Thread-14) Thread terminating.
+[02:40:43:805  77 DEBUG] (Thread-21) Shutdown detected.
+[02:40:43:805  97 DEBUG] (Thread-21) Thread terminating.
+[02:40:43:805  77 DEBUG] (Thread-20) Shutdown detected.
+[02:40:43:805  97 DEBUG] (Thread-20) Thread terminating.
+[02:40:43:805  77 DEBUG] (Thread-19) Shutdown detected.
+[02:40:43:805  97 DEBUG] (Thread-19) Thread terminating.
+[02:40:43:805  77 DEBUG] (Thread-18) Shutdown detected.
+[02:40:43:806  97 DEBUG] (Thread-18) Thread terminating.
+[02:40:43:806  77 DEBUG] (Thread-17) Shutdown detected.
+[02:40:43:806  97 DEBUG] (Thread-17) Thread terminating.
+[02:40:43:806  77 DEBUG] (Thread-16) Shutdown detected.
+[02:40:43:806  97 DEBUG] (Thread-16) Thread terminating.
