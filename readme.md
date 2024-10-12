@@ -31,18 +31,21 @@ search.processSearch(queryFile, writer);
 
 Responsible for crawling web pages and building the inverted index.
 
-java
+```java
 ArrayList<String> newLinks = HTMLParser.parseLinks(fetch.getHTML());
 // ... (link processing code)
 for (String newLink : newLinks) {
-// ... (URL handling code)
-if (newLink.startsWith("http")) {
-newURL = new URL(newLink);
-} else {
-newURL = new URL(new URL(url), newLink);
+    // ... (URL handling code)
+    if (newLink.startsWith("http")) {
+        newURL = new URL(newLink);
+    } else {
+        newURL = new URL(new URL(url), newLink);
+    }
+    // ... (more processing)
 }
-// ... (more processing)
-}
+
+```
+
 
 
 ### HTMLParser
@@ -53,13 +56,14 @@ Parses HTML content, removes tags, and extracts links.
 
 Processes search queries and returns results based on the inverted index.
 
-java
+```java
 public void processSearch(String path, PrintWriter writer) {
-ArrayList<String> queryList = QueryListFactory.createQueryList(path);
-index.processQueries(queryList);
-HashMap<Integer, TreeSet<Map.Entry<String, Integer>>> results = index.getSearchResults();
+    ArrayList<String> queryList = QueryListFactory.createQueryList(path);
+    index.processQueries(queryList);
+    HashMap<Integer, TreeSet<Map.Entry<String, Integer>>> results = index.getSearchResults();
 // ... (result processing and writing)
 }
+```
 
 ## Usage
 
