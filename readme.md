@@ -91,16 +91,5 @@ This project is designed to crawl up to 30 pages starting from the seed URL. It 
 
 ## License
 
-[Add your license information here]
+This code is not for distribution.
 
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## Authors
-
-[Add author information]
-
-## Acknowledgments
-
-[Add any acknowledgments or credits]
